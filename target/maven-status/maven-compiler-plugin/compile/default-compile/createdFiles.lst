@@ -1,3 +1,4 @@
+com/viotas/server/config/CorsFilter.class
 com/viotas/server/service/MeterService.class
 com/viotas/server/controller/MeterController.class
 com/viotas/server/ServerApplication.class

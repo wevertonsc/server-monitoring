@@ -3,4 +3,5 @@
 /Users/weverton.castanho/architecture/viotas/server-monitoring/src/main/java/com/viotas/server/config/SwaggerConfig.java
 /Users/weverton.castanho/architecture/viotas/server-monitoring/src/main/java/com/viotas/server/service/MeterService.java
 /Users/weverton.castanho/architecture/viotas/server-monitoring/src/main/java/com/viotas/server/repository/MeterRepository.java
+/Users/weverton.castanho/architecture/viotas/server-monitoring/src/main/java/com/viotas/server/config/CorsFilter.java
 /Users/weverton.castanho/architecture/viotas/server-monitoring/src/main/java/com/viotas/server/controller/MeterController.java
