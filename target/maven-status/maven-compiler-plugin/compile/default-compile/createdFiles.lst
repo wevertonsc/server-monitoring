@@ -1,0 +1,6 @@
+com/viotas/server/service/MeterService.class
+com/viotas/server/controller/MeterController.class
+com/viotas/server/ServerApplication.class
+com/viotas/server/repository/MeterRepository.class
+com/viotas/server/config/SwaggerConfig.class
+com/viotas/server/model/Meter.class
