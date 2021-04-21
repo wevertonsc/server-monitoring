@@ -2,11 +2,11 @@ package com.viotas.server.controller;
 
 /*
 - - - - - - - - - - - - - - - - - - - - - -
- Assessment
+ Viotas Assessment
 - - - - - - - - - - - - - - - - - - - - - -
  Candidate: Weverton de Souza Castanho
  Email: wevertonsc@gmail.com
- Data: 15.APRIL.2021
+ Data: 21.APRIL.2021
 - - - - - - - - - - - - - - - - - - - - - -
 */
 
@@ -36,5 +36,15 @@ public class MeterController {
     @RequestMapping(method = RequestMethod.POST)
     public void saveMeter(@RequestBody Meter meter){
         meterService.save(meter);
+    }
+
+    @RequestMapping(value = "/measures", method = RequestMethod.GET)
+    public String getMeasures(){
+        return meterService.getMeasures();
+    }
+
+    @RequestMapping(value = "/activity", method = RequestMethod.GET)
+    public String getMeterActivity(){
+        return meterService.getMeterActivity();
     }
 }

@@ -2,11 +2,11 @@ package com.viotas.server.config;
 
 /*
 - - - - - - - - - - - - - - - - - - - - - -
- Assessment
+ Viotas Assessment
 - - - - - - - - - - - - - - - - - - - - - -
  Candidate: Weverton de Souza Castanho
  Email: wevertonsc@gmail.com
- Data: 15.APRIL.2021
+ Data: 21.APRIL.2021
 - - - - - - - - - - - - - - - - - - - - - -
 */
 
@@ -19,7 +19,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
- * Call swagger -> localhost/swagger-ui.html
+ * Call swagger -> localhost:8085/swagger-ui.html
  */
 
 @EnableSwagger2

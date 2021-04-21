@@ -1,5 +1,15 @@
 package com.viotas.server.config;
 
+/*
+- - - - - - - - - - - - - - - - - - - - - -
+ Viotas Assessment
+- - - - - - - - - - - - - - - - - - - - - -
+ Candidate: Weverton de Souza Castanho
+ Email: wevertonsc@gmail.com
+ Data: 21.APRIL.2021
+- - - - - - - - - - - - - - - - - - - - - -
+*/
+
 import org.springframework.core.Ordered;
 import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Component;
